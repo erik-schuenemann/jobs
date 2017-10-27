@@ -31,7 +31,7 @@ We’re looking for a Senior Designer to help us in refining SumUp’s branding 
 * You love working with different Stakeholders in a company, providing creative leadership and guidance to a talented team of designers.
 
 ### Requirements
-* You have 3+ years experience as a Graphic/Communication Designer
+* You have 4+ years experience as a Graphic/Communication Designer
 * You’re familiar with modern design tools and services
 * Excellent communication and presentation skills which help you to communicate ideas and concepts with team members from a wide range of countries and cultures
 * You have a strong design aesthetic - photography skills, motion graphics, illustration, and conceptual ad skills are all a big plus
