@@ -1,15 +1,20 @@
 # Product Designer (m/w)
 
 ### About SumUp
-We do things differently. We are innovative, intuitive and inclusive.
+We are the leading mobile point-of-sale (mPOS) company in Europe. We started out 5 years ago, building our payment service from scratch and in the process, changing the card acceptance industry forever. We created a unique device which alongside a smartphone, allows small merchants to accept card payments anywhere. Whether our merchants are brewing coffee or fixing cars, we ensured our products were something anyone could understand, so our merchants can get back to what they do best. From our paperless onboarding to taking the first payment, we make it easy.
 
-We are the leading mobile point-of-sale (mPOS) company in Europe. Our company vision is to become the first ever global card acceptance brand. Today tens of thousands of merchants accept card payments with SumUp in 15 countries including Germany, the UK and Brazil.
+Today, hundreds of thousands of small businesses in 30 countries around the world rely on SumUp to get paid. In addition to our original hardware, mobile and web apps we have gone on to develop a suite of APIs and SDKs to integrate SumUp payment into other apps and services.
 
-Working as a Product Designer for SumUp could be interesting for you because we cover many different platforms that we constantly try to improve: We have physical hardware (made right here in Berlin), localized websites, mobile apps on iOS and Android, third-party integrations and a merchant-facing web app.
+### The Design Team
+
+Joining the Design team will be interesting for you if you’re excited by the potential to work with many different platforms/mediums with a desire and hunger to constantly improve and innovate in these spaces.
+
+We have physical hardware (made in Berlin), localized websites, mobile apps on iOS and Android, third-party integrations and a merchant-facing web app. The Team is located in Berlin, Sofia and Sao Paolo, covering everything from User Experience and Interaction Design to Brand and Communication Design.
 
 Help us bring card acceptance to the masses!
 
 ## What we're looking for
+
 To us, Product Designer means you are comfortable with designing interfaces from both UX and UI perspective. As part of the design team you will be in charge of turning new features for our mobile and web applications from concept into reality and continuously improve the interface. You'll shape some of the core experiences of our merchants: from their first impression on our website, to the web-based features that make them loyal to our platform.
 
 ### You'll fit in perfectly to our team if:
@@ -24,7 +29,7 @@ To us, Product Designer means you are comfortable with designing interfaces from
 * You have a strong portfolio that demonstrates a well-structured, iterative design process for turning an idea into a creative and unique design.
 
 ### Requirements
-* You have 3+ years experience as a UX & UI Designer
+* You have 5+ years experience as a UX & UI Designer
 * You know the common design tools and services (we mainly use Sketch)
 * Your excellent communication and presentation skills will help you collaborate with team members from a wide range of countries and cultures
 * You have experience in working in an agile environment and the ability to adapt quickly to changing product priorities

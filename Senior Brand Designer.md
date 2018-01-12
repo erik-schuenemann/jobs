@@ -10,7 +10,7 @@ Today, hundreds of thousands of small businesses in 30 countries around the worl
 
 Joining the Design team will be interesting for you if you’re excited by the potential to work with many different platforms/mediums with a desire and hunger to constantly improve and innovate in these spaces.
 
-We have physical hardware (made in Berlin), localized websites, mobile apps on iOS and Android, third-party integrations and a merchant-facing web app. The Team is located in Berlin and Sao Paolo, Brazil covering everything from User Experience and Interaction Design to Brand and Communication Design.
+We have physical hardware (made in Berlin), localized websites, mobile apps on iOS and Android, third-party integrations and a merchant-facing web app. The Team is located in Berlin, Sofia and Sao Paolo, covering everything from User Experience and Interaction Design to Brand and Communication Design.
 
 Help us bring card acceptance to the masses!
 
@@ -31,7 +31,7 @@ We’re looking for a Senior Designer to help us in refining SumUp’s branding 
 * You love working with different Stakeholders in a company, providing creative leadership and guidance to a talented team of designers.
 
 ### Requirements
-* You have 4+ years experience as a Graphic/Communication Designer
+* You have 5+ years experience as a Brand Designer
 * You’re familiar with modern design tools and services
 * Excellent communication and presentation skills which help you to communicate ideas and concepts with team members from a wide range of countries and cultures
 * You have a strong design aesthetic - photography skills, motion graphics, illustration, and conceptual ad skills are all a big plus
