@@ -1,10 +1,11 @@
 # User Experience Researcher (m/w)
 
-We do things differently. We build our own payment solution end-to-end so that we can always offer the best value and service. We know how vital payment is to small businesses, so we use our technology to solve their problems. We believe in open and transparent communication, not strict rules and hierarchies. We are a team of hardworking, talented people with one goal: to build a better way to get paid. We’ve got some huge challenges ahead of us, and we need smart, creative people to help us tackle them. If you think you’ve got what it takes—join us.
+At SumUp we believe that anyone should be able to start their own business. While traditional offerings exclude the small guys we don’t. We are their partners and provide them with the tools and confidence to realise their business dreams. We are convinced that getting paid should be easy, affordable and uncomplicated. We bet on technology to provide a good service and allow small business owners to focus on what they love. One of the key ways to doing this is by following a customer-first approach when designing our products. We are close to our customers, observe and listen to what they need, so that we can create the best experience for them. 
+If you're User Experience Researchen and belive in this approach join our team and help us empower small businesses.
 
-At SumUp, we daily work on empowering small business. One of the key ways were doing this is by taking a truly customer-first approach to design. We continually listen and endeavour to learn about our readers and potential customers, so that we can design the best experiences for them. We are looking for a User Experience Researcher who also believes deeply in this approach to join our growing team.
+## The Job:
 
-At SumUp we believe that anyone should be able to start their own business. While traditional offerings exclude the small guys we don’t. We are their partners and provide them with the tools and confidence to realise their business dreams. We are convinced that getting paid should be easy, affordable and uncomplicated. We bet on technology to provide a good service and allow small business owners to focus on what they love. One of the key ways to doing this is by following a customer-first approach when designing our products. We are close to our customers, observe and listen to what they need, so that we can create the best experience for them. If you're User Experience Researchen and belive in this approach join our team and help us empower small businesses.
+To us User Experience Research means being curious about human behavior. As part of the product/design team you will get meaning from customer insights and data that our product teams need at every stage of the product development cycle. You will partner with the product designers, product owners, engineers and marketers to shape some of the core experiences of our merchants: from accepting their first payment to running multiple stores with multiple employees.
 
 ### You'll fit in perfectly to our team if:
 
@@ -22,6 +23,7 @@ At SumUp we believe that anyone should be able to start their own business. Whil
 * Your excellent presentation skills will help you collaborate with team members from a wide range of countries and cultures
 * You have experience in working in an agile environment and the ability to adapt quickly to changing product priorities
 * You have a good knowledge of UX standards, fundamental user behaviors and user-centered design principles
+* Experience managing Teams is a plus
 
 
 ## Benefits
