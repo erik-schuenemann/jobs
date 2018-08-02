@@ -5,26 +5,25 @@ If you're User Experience Researchen and belive in this approach join our team a
 
 ## The Job:
 
-As a User Experience Research Intern, you will partner with our product designer, product managers and developer. You will observe and record users’ behaviour as they perform various tests and interact with our product. You will review, structure and summarize the recorded notes, videos and audio files to get customer insights and data that our product teams need at every stage of the product development cycle. You research and suggest any software or tools you believe may empower our Design and Product department.
+As a User Experience Research Intern, you will partner with our product designers, product managers and developers. You will help them determine target-users, encurage them to participate and build a database which you can use to schedule the different sessions with the team. You will then observe and record users’ behaviour as they perform various tests and interact with our product. You will review, structure and summarize the recorded notes, videos and audio files to get customer insights and data that our product teams need at every stage of the product development cycle. You research and suggest any software or tools you believe may empower our Design and Product department.
 
 ### You'll fit in perfectly to our team if:
 
-* You love sharing your findings and any actionable insights you have generated.
-* You love improving the user experience by validating  assumptions with proper user research and usability testing, you make sure you're addressing the right problems the right way.
-* You have Experience with qualitative and user-centered research methods (e.g., surveys and questionnaire design, personas, field and lab studies, competitive benchmarking or a new method you invent)
-* You're passionate about all aspects of design research (study design, recruiting, moderation, analysis, reporting)
+* You want to learn about Product Design and Development by working closely with the Product Team of Europes fastes growing company.
+* You belive that design has to be data-informed
+* You are passionate about finding solutions to a problem
+* You like all aspects of design research (study design, recruiting, moderation, analysis, reporting)
+* You are a creative problem solver who can iterate quickly in a fast envoirement
 * You like working in cross-functional teams and share findings with collaborating with Designers, Engeneers, Product Managers and Customer Support as well as Marketing
-* You know how to manage multiple projects and stakeholders at once.
+* You are passionate about research, particularly uncovering insights related to audiences and products.
 
 ### Requirements
-* You have a degree in Human Factors, Human-Computer Interaction, Cognitive or Experimental Psychology, Cognitive Science, Information Architecture or related field
+* You are pursuing a degree in computer science, human-computer interaction, industrial or graphic design or related field.
 * You know common research methods and tools across devices and markets
-* You have 3+ years experience as a User researcher
-* You have Strong oral and written communication skills in both English and German (additional languages are a plus)
+* You have Strong oral and written communication skills in English (additional languages are a plus)
 * Your excellent presentation skills will help you collaborate with team members from a wide range of countries and cultures
-* You have experience in working in an agile environment and the ability to adapt quickly to changing product priorities
 * You have a good knowledge of UX standards, fundamental user behaviors and user-centered design principles
-* Experience managing Teams is a plus
+* you have Strong problem-solving skills with balanced interaction and visual design skills.
 
 
 ## Benefits
