@@ -1,34 +1,34 @@
 # User Experience Intern (m/w)
 
 At SumUp we believe that anyone should be able to start their own business. While traditional offerings exclude the small guys we don’t. We are their partners and provide them with the tools and confidence to realise their business dreams. We are convinced that getting paid should be easy, affordable and uncomplicated. We bet on technology to provide a good service and allow small business owners to focus on what they love. One of the key ways to doing this is by following a customer-first approach when designing our products. We are close to our customers, observe and listen to what they need, so that we can create the best experience for them. 
-If you're User Experience Researchen and belive in this approach join our team and help us empower small businesses.
+If you're User Experience Researcher and believe in this approach join our team and help us empower small businesses.
 
 ## The Job:
 
-As a User Experience Research Intern, you will partner with our product designers, product managers and developers. You will help them determine target-users, encurage them to participate and build a database which you can use to schedule the different sessions with the team. You will then observe and record users’ behaviour as they perform various tests and interact with our product. You will review, structure and summarize the recorded notes, videos and audio files to get customer insights and data that our product teams need at every stage of the product development cycle. You research and suggest any software or tools you believe may empower our Design and Product department.
+As a User Experience Research Intern, you will partner with our product designers, product managers and developers. You will help them determine target-users, encourage them to participate and build a database which you can use to schedule the different sessions with the team. You will then observe and record users’ behaviour as they perform various tests and interact with our product. You will review, structure and summarize the recorded notes, videos and audio files to get customer insights and data that our product teams need at every stage of the product development cycle. You research and suggest any software or tools you believe may empower our Design and Product department.
 
 ### You'll fit in perfectly to our team if:
 
-* You want to learn about Product Design and Development by working closely with the Product Team of Europes fastes growing company.
-* You belive that design has to be data-informed
+* You want to learn about Product Design and Development by working closely with the Product Team of Europe's fastes growing company.
+* You believe that design has to be data-informed
 * You are passionate about finding solutions to a problem
 * You like all aspects of design research (study design, recruiting, moderation, analysis, reporting)
-* You are a creative problem solver who can iterate quickly in a fast envoirement
-* You like working in cross-functional teams and share findings with collaborating with Designers, Engeneers, Product Managers and Customer Support as well as Marketing
-* You are passionate about research, particularly uncovering insights related to audiences and products.
+* You are a creative problem solver who can iterate quickly in a fast environment
+* You like working in cross-functional teams and share findings with collaborating with Designers, Engineers, Product Managers and Customer Support as well as Marketing
+* You are passionate about research, particularly uncovering insights related to audiences and products
 
 ### Requirements
-* You are pursuing a degree in computer science, human-computer interaction, industrial or graphic design or related field.
-* You know common research methods and tools across devices and markets
-* You have Strong oral and written communication skills in English (additional languages are a plus)
+* You are pursuing a degree in computer science, human-computer interaction, industrial or graphic design or related field
+* You know how to apply common research methods and tools across devices and markets
+* You have strong verbal and written communication skills in English (additional languages are a plus)
 * Your excellent presentation skills will help you collaborate with team members from a wide range of countries and cultures
 * You have a good knowledge of UX standards, fundamental user behaviors and user-centered design principles
-* you have Strong problem-solving skills with balanced interaction and visual design skills.
+* You have strong problem-solving skills with balanced interaction and visual design skills
 
 
 ## Benefits
 * Flat hierarchies and the opportunity to have an impact, irrespective of your job description.
-* Convenient location in the heart of Mitte at U-Bahn Oranienburger Tor.
+* Convenient location in the heart of Mitte at Alexanderplatz.
 * All the startup swag you expect: kicker table, table tennis, beer in the fridge, and more!
 * Our office has a strong sense of community; we get together regularly for brunches, cocktail nights, soccer, and yoga.
 * Our team comes from 24 different countries creating a fun, international environment.
